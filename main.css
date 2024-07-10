@@ -1,0 +1,37 @@
+.banner{
+
+    width:100%;
+    height:90vh;
+   background-color: #597445;
+    background-size: cover;
+    background-position:center;
+}
+
+.content{
+    width: 100%;
+    position: absolute;
+    top:40%;
+    text-align: center;
+    color:#E7F0DC;
+}
+
+.content h2{
+    text-decoration: underline;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.d{
+    align-items: center;
+    background:transparent;
+}
+
+h2{
+    text-align: center;
+}
+
+.card{
+    margin: 4px;
+    margin-left: 50px;
+}
